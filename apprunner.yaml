@@ -19,4 +19,4 @@ run:
     - name: OTEL_RESOURCE_ATTRIBUTES
       value: 'service.name=votingapp'
     - name: DDB_AWS_REGION
-      value: "us-west-2"
+      value: "us-east-1"
